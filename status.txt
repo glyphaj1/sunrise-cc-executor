@@ -1,5 +1,5 @@
-status = "up"
-message = "operational"
-
+status = "down"
+message = "As some of you may already know, Sunrise Executor uses the Velocity API to execute Lua into Roblox. At the moment, Velocity has reportedly been compromised by unknown individuals, which means it may not be safe to use right now. Because of this, I have made the decision to tempoairly disable sunrise services untill it is fixed."
+proceed = "no"
 // status set to "up" or "down"
 // if message blank show no message ( "" ) 
