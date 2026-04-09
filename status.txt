@@ -1,2 +1,5 @@
 status = "up"
-message ""
+message "operational"
+
+// status set to "up" or "down"
+// if message blank show no message ( "" ) 
