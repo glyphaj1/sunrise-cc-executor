@@ -1,3 +1,3 @@
-status = "down"
-message = "Testing new snowfall checks before continuing to open the executor."
-proceed = "no"
+status = "up"
+message = "API is now up and working! Sunrise updated to latest roblox verison. - AJ"
+proceed = "yes"
