@@ -1,2 +1,3 @@
-Status: up
-Reason: API upadting, release soon!
+status = "down"
+message = "The current API verison does not match with the latest Roblox verison. An update will be released soon."
+proceed = "no"
