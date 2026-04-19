@@ -1,3 +1,5 @@
 status = "up"
-message = "Executor and API is now up and working! Sunrise updated to and tested to be compatiable with the latest roblox verison. If you like sunrise please vouch in the discord server <3"
+message = "Executor and API is now up and working! Sunrise updated to and tested to be compatiable with the latest roblox verison. If you like sunrise please vouch in the discord server <3
+
+Enjoy!"
 proceed = "yes"
