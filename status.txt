@@ -1,3 +1,3 @@
-status = "down"
-message = "Executor API requires an update on our end. Voltage Executor will be released once the API is updated. :) If you would like to continue using Sunrise in the meantime press continue!"
+status = "up"
+message = "Executor API is updated to the latest Roblox version. Voltage Executor is finally released. Be sure to read and accept TOS before using. View TOS at the bottom of the window."
 proceed = "yes"
